@@ -58,4 +58,5 @@ module.exports = {
       cursive: ["Dancing Script", "cursive"],
     },
   },
+  plugins: [],
 };
