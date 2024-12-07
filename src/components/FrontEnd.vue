@@ -230,8 +230,8 @@
                 </h5>
               </a>
               <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
-                This app has a lot of functionality. I would you encourage you
-                to register and login to see all the features. The app is built
+                This app has a lot of functionality. I would encourage you to
+                register and login to see all the features. The app is built
                 using Vue.js, Firebase, and Tailwind CSS. Also includes, Pinia,
                 Vue-Router, and Vee-Validate, Howler, and also implemented PWA
                 (Progressive Web App).
