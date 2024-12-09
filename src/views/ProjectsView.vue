@@ -56,6 +56,7 @@
         <option value="frontend">Frontend</option>
         <option value="fullstack">Fullstack</option>
         <option value="wordpress">WordPress</option>
+        <option value="comming-soon">Coming Soon</option>
       </select>
     </div>
 
@@ -67,18 +68,13 @@
             <component :is="Component" :key="route.path" />
           </transition>
         </template>
-        <template v-else>
-          <div class="text-2xl text-gray-200 dark:text-gray-700">
-            Please select a menu item on the left.
-          </div>
-        </template>
       </router-view>
     </div>
   </div>
 </template>
 
 <script setup>
-import { ref } from "vue";
+import { ref, onMounted } from "vue";
 import { useRouter } from "vue-router";
 
 const showSection = ref(true);
@@ -88,6 +84,10 @@ const navigateTo = (event) => {
   const routeName = event.target.value;
   router.push({ name: routeName });
 };
+
+onMounted(() => {
+  router.push({ name: "frontend" });
+});
 </script>
 
 <style scoped>
