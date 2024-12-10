@@ -58,12 +58,16 @@
       </div>
     </section>
   </transition>
+  <Analytics />
 </template>
 
 <script lang="ts" setup>
 import { ref } from "vue";
+import { Analytics } from "@vercel/analytics/vue";
 
 const showSection = ref(true);
+
+//Analytics();
 </script>
 
 <style scoped>
