@@ -100,8 +100,6 @@
 import { ref } from "vue";
 
 const accessKey = ref(import.meta.env.VITE_WEB3FORMS_ACCESS_KEY);
-
-console.log("Access Key:", accessKey.value);
 </script>
 
 <style scoped>
