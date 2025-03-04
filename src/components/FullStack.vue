@@ -76,7 +76,10 @@
           <div
             class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700"
           >
-            <a href="https://www.cwm-portfolio.com/" target="_blank">
+            <a
+              href="https://realtor-main-btmvri.laravel.cloud/"
+              target="_blank"
+            >
               <img
                 class="rounded-t-lg"
                 src="../assets/images/Realtor.png"
