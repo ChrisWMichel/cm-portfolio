@@ -79,7 +79,7 @@
             <a href="https://www.cwm-portfolio.com/" target="_blank">
               <img
                 class="rounded-t-lg"
-                src="../assets/images/realtor.png"
+                src="../assets/images/Realtor.png"
                 alt=""
               />
             </a>
