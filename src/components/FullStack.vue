@@ -138,7 +138,7 @@
             class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700"
           >
             <a
-              href="https://vue-laravel-ecom-main-tpkbpw.laravel.cloud/"
+              href="https://michel-5.com/"
               target="_blank"
             >
               <img
@@ -149,7 +149,7 @@
             </a>
             <div class="p-5">
               <a
-                href="https://vue-laravel-ecom-main-tpkbpw.laravel.cloud/"
+                href="https://michel-5.com/"
                 target="_blank"
               >
                 <h5
