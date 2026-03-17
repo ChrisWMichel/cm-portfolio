@@ -1,12 +1,8 @@
 <template>
   <div>
     <header>
-      <nav
-        class="bg-white border-gray-200 px-4 lg:px-6 py-2.5 dark:bg-gray-800"
-      >
-        <div
-          class="flex flex-wrap items-center justify-between max-w-screen-xl mx-auto"
-        >
+      <nav class="bg-white border-gray-200 px-4 lg:px-6 py-2.5 dark:bg-gray-800">
+        <div class="flex flex-wrap items-center justify-between max-w-screen-xl mx-auto">
           <router-link :to="{ name: 'home' }" class="flex items-center">
             <img
               src="../assets/images/chrisLogo.png"
@@ -71,9 +67,7 @@
             class="items-center justify-between hidden w-full lg:flex lg:w-auto lg:order-1"
             id="mobile-menu-2"
           >
-            <ul
-              class="flex flex-col mt-4 font-medium lg:flex-row lg:space-x-8 lg:mt-0"
-            >
+            <ul class="flex flex-col mt-4 font-medium lg:flex-row lg:space-x-8 lg:mt-0">
               <li>
                 <router-link
                   :to="{ name: 'home' }"
