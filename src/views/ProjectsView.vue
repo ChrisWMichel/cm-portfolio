@@ -40,7 +40,7 @@
               exact-active-class="active"
               class="block px-4 py-2 text-gray-700 hover:bg-gray-300 dark:text-gray-400 dark:hover:bg-gray-700"
             >
-              Coming Soon
+              2026 Projects
             </router-link>
           </li>
         </ul>
@@ -56,7 +56,7 @@
         <option value="frontend">Frontend</option>
         <option value="fullstack">Fullstack</option>
         <option value="wordpress">WordPress</option>
-        <option value="comming-soon">Coming Soon</option>
+        <option value="comming-soon">2026 Projects</option>
       </select>
     </div>
 
