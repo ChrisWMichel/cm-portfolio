@@ -8,24 +8,24 @@
           <h1
             class="max-w-2xl mb-4 text-4xl font-extrabold leading-none tracking-tight md:text-5xl xl:text-5xl dark:text-white"
           >
-            Welcome to my portfolio!
+            Welcome to my portfolio!!!!
           </h1>
           <!-- Corrected the <P> tag to <p> and ensured it is properly closed -->
           <p
             class="max-w-2xl mb-6 font-bold text-gray-900 lg:mb-8 md:text-lg lg:text-2xl dark:text-black"
           >
-            I'm Chris Michel, a web developer with a passion for crafting
-            beautiful and functional web applications. Recently, I've been
-            diving deep into Vue 3, Tailwind CSS, and Firebase, and I'm thrilled
-            to share some of my projects with you.
+            I'm Chris Michel, a web developer with a passion for crafting beautiful and
+            functional web applications. Recently, I've been diving deep into Vue 3,
+            Tailwind CSS, and Firebase, and I'm thrilled to share some of my projects with
+            you.
           </p>
           <p
             class="max-w-2xl font-bold text-gray-900 lg:mb-8 md:text-lg lg:text-2xl dark:text-black"
           >
-            Currently, I'm embarking on a full-stack project using Vue 3,
-            Tailwind CSS, and Laravel to keep my skills sharp across different
-            areas. I believe in continuous learning and the excitement of
-            creating new things. Take a look at my projects below!
+            Currently, I'm embarking on a full-stack project using Vue 3, Tailwind CSS,
+            and Laravel to keep my skills sharp across different areas. I believe in
+            continuous learning and the excitement of creating new things. Take a look at
+            my projects below!
           </p>
           <p class="mb-6 text-4xl font-extrabold font-cursive">Chris Michel</p>
           <router-link
