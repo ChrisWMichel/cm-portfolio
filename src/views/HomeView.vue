@@ -8,24 +8,27 @@
           <h1
             class="max-w-2xl mb-4 text-4xl font-extrabold leading-none tracking-tight md:text-5xl xl:text-5xl dark:text-white"
           >
-            Welcome to my portfolio!!!!
+            Welcome to my portfolio!
           </h1>
-          <!-- Corrected the <P> tag to <p> and ensured it is properly closed -->
           <p
             class="max-w-2xl mb-6 font-bold text-gray-900 lg:mb-8 md:text-lg lg:text-2xl dark:text-black"
           >
-            I'm Chris Michel, a web developer with a passion for crafting beautiful and
-            functional web applications. Recently, I've been diving deep into Vue 3,
-            Tailwind CSS, and Firebase, and I'm thrilled to share some of my projects with
-            you.
+            I’m Chris Michel, a web developer focused on building real‑world WordPress
+            projects. This year I’m rebuilding my entire workflow around modern WordPress
+            development — custom plugins, clean theme architecture, and practical features
+            that solve actual problems. My latest project includes a multi‑source search
+            system, custom post types, and several plugins built from scratch. More
+            projects are on the way as I continue sharpening and modernizing my WordPress
+            skill set.
           </p>
           <p
             class="max-w-2xl font-bold text-gray-900 lg:mb-8 md:text-lg lg:text-2xl dark:text-black"
           >
-            Currently, I'm embarking on a full-stack project using Vue 3, Tailwind CSS,
-            and Laravel to keep my skills sharp across different areas. I believe in
-            continuous learning and the excitement of creating new things. Take a look at
-            my projects below!
+            I approach every build with a focus on structure, clarity, and
+            maintainability. Whether I’m creating a custom plugin or shaping a theme from
+            the ground up, I rely on clean architecture, thoughtful naming, and repeatable
+            workflows that make the codebase easy to understand and extend. My goal is
+            always the same: ship work that’s reliable, scalable, and genuinely useful.
           </p>
           <p class="mb-6 text-4xl font-extrabold font-cursive">Chris Michel</p>
           <router-link

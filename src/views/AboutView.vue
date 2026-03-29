@@ -4,36 +4,35 @@
       <div class="p-6 bg-white rounded-lg shadow-lg">
         <p class="mb-4 text-2xl">Let me start off with a funny story.</p>
         <p class="mb-4 text-lg">
-          When I was young, ambitious, and full of energy, I decided to take
-          every programming class McHenry County College had to offer. I told
-          myself I was going to conquer them all! By the time I graduated with
-          my A.A.S., I had accumulated 118 credits. Ironically, despite all the
-          knowledge, I wasn’t proficient in any particular language. This
-          experience taught me the importance of focused learning and the skill
-          of learning how to learn.
+          I started my journey by taking every programming class McHenry County College
+          offered. I graduated with 118 credits and an A.A.S., but the real takeaway
+          wasn’t any single language—it was learning how to learn. That mindset has shaped
+          the way I approach every new tool and technology.
         </p>
         <p class="mb-4 text-lg">
-          In 2007, I decided to move away from Visual Basic as desktop
-          applications started to fade with the rise of web applications.
-          Determined to adapt, I chose to focus on PHP, JavaScript, and
-          HTML/CSS. Over time, I also zeroed in on frameworks like Laravel,
-          VueJS, and Tailwind to broaden my expertise.
+          As the industry shifted away from desktop applications, I shifted with it. In
+          2007, I moved on from Visual Basic and committed to PHP, JavaScript, and
+          HTML/CSS. Over the years, I expanded into frameworks like Laravel, Vue.js, and
+          Tailwind, building a broad foundation that lets me adapt quickly and solve
+          problems across the stack.
         </p>
         <p class="mb-4 text-lg">
-          Though I needed to accept diverse roles to sustain my career, my
-          proficiency in PHP and JavaScript has been invaluable at Orbital
-          Engineering and Sporty’s. However, I am still on the lookout for
-          opportunities where I can fully leverage my skills in Laravel and
-          VueJS.
+          My experience in PHP and JavaScript has been especially valuable in roles at
+          Orbital Engineering and Sporty’s, where I supported real-world systems and
+          delivered practical solutions. I’m now focused on modern WordPress
+          development—custom plugins, clean theme architecture, and features that make
+          sites faster, smarter, and easier to manage. I still stay active with Vue.js and
+          Tailwind because they keep my front-end skills sharp and give me flexibility
+          when a project calls for it
         </p>
         <p class="text-xl font-bold">
-          So, if you’re reading this and have a position that fits my criteria,
-          let’s create some magic together!
+          If you’re looking for someone who can take ownership of a build, solve problems
+          without drama, and deliver clean, maintainable work, I’m always open to the
+          right opportunity.
         </p>
         <p class="my-4 text-xl">
-          As a side note, to point out how much time I spend learning, Udemy
-          sent me an email letting me know how many minutes I spent in learning
-          in 2024.
+          As a side note, to point out how much time I spend learning, Udemy sent me an
+          email letting me know how many minutes I spent in learning in 2024.
           <a
             target="_blank"
             class="font-bold text-orange-800"
