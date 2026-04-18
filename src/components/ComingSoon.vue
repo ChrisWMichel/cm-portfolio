@@ -31,15 +31,13 @@
               This project includes six custom WordPress plugins and a fully custom search
               system. The search bar pulls results from multiple post types—departments,
               events, professors, campuses, and blogs, and displays them in a structured,
-              multi‑column layout for quick scanning.This project is a testament to my
-              commitment to mastering WordPress development and creating high-quality,
-              functional websites.
+              multi‑column layout for quick scanning.
             </p>
             <p class="text-lg pl-5 text-gray-800 dark:text-gray-200">
-              If you would like to review the code, please check out the GitHub repository
-              for this project:
+              The best way to review this project is to go over the Readme file in the
+              GitHub repository, which includes a detailed breakdown:
               <a
-                href="https://github.com/ChrisWMichel/Fictional-University"
+                href="https://github.com/ChrisWMichel/Fictional-University/blob/main/README.md"
                 target="_blank"
                 class="text-blue-500 hover:underline"
                 >GitHub Repository</a

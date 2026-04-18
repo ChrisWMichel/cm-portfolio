@@ -55,7 +55,7 @@
           <img
             src="../assets/images/chrisWMichel.jpg"
             alt="portrait"
-            class="rounded-lg shadow-lg"
+            class="rounded-lg shadow-lg object-cover max-h-[500px] w-full"
           />
         </div>
       </div>
